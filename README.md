@@ -5,7 +5,9 @@
 ##To do/Might do:
 
 -Add a GUI
+
 -Add a option to save purchased entities
+
 -Add option to save players map position
 
 ##Requirements:
